@@ -1,0 +1,602 @@
+[
+  {
+    "id": "5714acccb09d9b968f82c741",
+    "name": "313 Freeman Street",
+    "description": "Reprehenderit nulla sit id laboris est cupidatat cillum ullamco. Proident nostrud nulla sit consequat aliqua ex. Magna officia in ex magna voluptate ipsum commodo officia dolore irure. Adipisicing exercitation adipisicing ullamco sit sint irure commodo ipsum esse non proident sit cupidatat adipisicing.",
+    "type": "commercial"
+  },
+  {
+    "id": "5714accca3f43e1e9910c702",
+    "name": "527 Tompkins Avenue",
+    "description": "Consectetur eu sint proident exercitation reprehenderit laboris aliqua aliquip sit laboris nisi laborum aute in. Magna dolore pariatur irure ad deserunt ex cillum occaecat anim dolor. Exercitation amet cupidatat sunt reprehenderit. Duis laborum cillum aute voluptate nulla consectetur excepteur proident tempor pariatur non commodo. Adipisicing sit in voluptate commodo ex sint consectetur nostrud. Consectetur Lorem cupidatat sunt sunt commodo in ipsum pariatur. Ex pariatur ullamco ipsum ut qui amet deserunt consectetur deserunt magna.",
+    "type": "industrial"
+  },
+  {
+    "id": "5714accc873f90ce581a7582",
+    "name": "203 Schenck Avenue",
+    "description": "Fugiat magna esse enim consectetur amet enim est cillum ad elit ut esse elit. Voluptate fugiat esse incididunt sint pariatur. Incididunt voluptate culpa duis sunt tempor deserunt culpa cupidatat commodo consequat eiusmod exercitation enim. Minim aliqua quis laborum anim officia in dolore culpa velit eiusmod. Fugiat proident excepteur ex do id anim exercitation exercitation sit aute.",
+    "type": "recidental"
+  },
+  {
+    "id": "5714accc4e3e55468c58b036",
+    "name": "986 Bay Avenue",
+    "description": "Ipsum minim occaecat officia proident ipsum cillum consectetur nostrud dolore quis elit. Ad irure sint aliqua non magna do ex cupidatat. Aute sint mollit aliquip tempor et enim amet.",
+    "type": "commercial"
+  },
+  {
+    "id": "5714accc4b85c9da22c84e15",
+    "name": "216 Mersereau Court",
+    "description": "Nisi anim commodo est pariatur ex culpa quis eiusmod irure quis qui sunt nisi aute. Amet irure nulla nostrud velit officia reprehenderit aute incididunt ex mollit ea proident. Eiusmod cillum proident excepteur sit id consequat officia ea ex duis anim esse anim. Enim ullamco incididunt incididunt velit enim incididunt ut fugiat incididunt voluptate reprehenderit aute proident ad. Amet magna cillum dolor ullamco excepteur. Adipisicing eiusmod ipsum amet minim pariatur consectetur proident nisi irure.",
+    "type": "commercial"
+  },
+  {
+    "id": "5714accc4d6e104e30d1043d",
+    "name": "132 Cumberland Street",
+    "description": "Reprehenderit dolor magna velit aliquip in non ut labore ea dolor qui. Fugiat ullamco sunt ex magna elit ut quis laborum magna. Voluptate exercitation nulla dolore incididunt tempor excepteur irure tempor quis cillum officia. Culpa minim nisi excepteur esse. Pariatur ea id nisi ea veniam minim ad cillum minim cillum consectetur deserunt dolor dolor. Ut dolor voluptate consequat Lorem cupidatat. Nulla Lorem consectetur ut aliqua.",
+    "type": "industrial"
+  },
+  {
+    "id": "5714accc5f7da1d1d3739c60",
+    "name": "133 Jackson Place",
+    "description": "Nulla ipsum pariatur minim voluptate. Consequat cupidatat ut veniam esse id. Sunt fugiat non pariatur qui incididunt fugiat magna fugiat eiusmod qui deserunt esse minim. Ut tempor enim velit consequat aute. Sint tempor officia nisi ea qui do quis adipisicing laboris id cillum excepteur laboris.",
+    "type": "recidental"
+  },
+  {
+    "id": "5714accc49bec902ecf738ea",
+    "name": "193 Royce Street",
+    "description": "Ex labore ex eu pariatur. Reprehenderit ullamco eiusmod sint mollit culpa eu nulla sunt officia cupidatat minim occaecat est. Et elit adipisicing cillum qui magna occaecat. Lorem esse incididunt irure mollit in. Enim consequat nisi nisi aliquip eiusmod labore. Laboris eiusmod ullamco consectetur ut. Dolor ipsum aliqua est eiusmod in in incididunt commodo est esse laborum.",
+    "type": "commercial"
+  },
+  {
+    "id": "5714accccfeb9e5e79bd1bf0",
+    "name": "378 Cherry Street",
+    "description": "Minim magna irure nisi commodo minim voluptate minim irure officia id proident sint proident. Deserunt tempor labore sint magna aute cillum consequat ad occaecat id laboris ut nostrud. Ipsum sint adipisicing exercitation ex labore. Nisi velit do aliqua dolore sit consequat do ullamco.",
+    "type": "industrial"
+  },
+  {
+    "id": "5714accc58baee627a8bc9a1",
+    "name": "584 Garland Court",
+    "description": "Do nostrud laborum incididunt culpa cupidatat. Ipsum laboris enim aute sit ullamco nostrud mollit. Cillum nisi consequat id Lorem. Eu qui Lorem dolore labore ex amet voluptate.",
+    "type": "recidental"
+  },
+  {
+    "id": "5714acccf0e351a8f25aacc2",
+    "name": "416 Norfolk Street",
+    "description": "Ea consequat sit voluptate magna adipisicing aute. Culpa enim consequat sint exercitation est et eu officia consectetur. Adipisicing eu occaecat fugiat elit culpa non reprehenderit officia esse dolor et eu.",
+    "type": "industrial"
+  },
+  {
+    "id": "5714accc96a47ea5984bb3bd",
+    "name": "393 Lefferts Place",
+    "description": "Qui aute adipisicing labore id esse magna amet commodo sit non ullamco ea. Velit nostrud aute laboris ullamco in esse duis ullamco voluptate culpa ex. Mollit non non magna officia labore dolor veniam deserunt dolor reprehenderit sunt ea.",
+    "type": "industrial"
+  },
+  {
+    "id": "5714acccc7fc8fb4c73cf690",
+    "name": "363 Cobek Court",
+    "description": "Incididunt in amet in esse dolore. Elit fugiat ea ad sunt amet id magna laboris ea mollit. Sit veniam eiusmod labore aliquip sunt. Quis proident elit elit ea sunt nisi ea esse duis incididunt est duis exercitation. Qui aliqua non magna elit mollit eu excepteur mollit ad voluptate occaecat quis magna mollit. Qui aliquip voluptate adipisicing culpa. Laborum est do irure labore tempor non eiusmod.",
+    "type": "commercial"
+  },
+  {
+    "id": "5714accc8e2bbb790d729a24",
+    "name": "327 Gilmore Court",
+    "description": "Dolore eu occaecat sunt culpa reprehenderit pariatur adipisicing reprehenderit amet nostrud dolor nisi. Aliquip exercitation et veniam eiusmod anim consectetur culpa adipisicing sint id. Est non nulla nostrud consectetur Lorem. Aute fugiat fugiat veniam dolore aute ut irure.",
+    "type": "industrial"
+  },
+  {
+    "id": "5714accc2f1c022cdb072bbb",
+    "name": "134 Harbor Lane",
+    "description": "Ut velit cupidatat commodo voluptate aute deserunt occaecat. Sit velit non elit incididunt ullamco in id eu nulla Lorem excepteur. Exercitation ea aliquip adipisicing ea incididunt et occaecat sit eiusmod cillum.",
+    "type": "commercial"
+  },
+  {
+    "id": "5714accc85ef429ed9fa5765",
+    "name": "515 Turnbull Avenue",
+    "description": "Non pariatur excepteur est non nostrud pariatur pariatur elit excepteur eiusmod consequat. Occaecat voluptate voluptate velit nisi labore reprehenderit tempor id exercitation sit. Incididunt culpa ullamco ullamco quis in. Lorem anim dolor et occaecat in aute et ut do quis incididunt incididunt. Enim ex non officia enim cupidatat quis. Consequat nostrud magna sint exercitation culpa aliqua laboris exercitation non commodo amet officia deserunt.",
+    "type": "industrial"
+  },
+  {
+    "id": "5714acccd0750b3b3cdec019",
+    "name": "558 Vanderveer Place",
+    "description": "Ea irure cupidatat ipsum deserunt proident ea exercitation qui sunt nulla aliquip esse laboris. Exercitation nisi sit proident dolore. Anim dolore Lorem nisi voluptate reprehenderit pariatur mollit ea ad consectetur reprehenderit officia. Sit aute amet tempor veniam. Consectetur quis cupidatat velit commodo minim cupidatat. Fugiat proident non anim irure occaecat. Aute velit est eu labore occaecat elit dolor consequat dolor ea eu velit ex elit.",
+    "type": "commercial"
+  },
+  {
+    "id": "5714accc130e03df68c3a583",
+    "name": "878 Beaver Street",
+    "description": "Cillum sint nulla magna consequat ad magna culpa velit consequat enim eiusmod tempor cillum proident. Tempor adipisicing quis et fugiat nulla laboris pariatur ex consequat elit et anim exercitation ea. Velit eiusmod esse sunt voluptate occaecat exercitation cillum occaecat elit voluptate tempor. Qui exercitation ex voluptate culpa. Dolor enim aute irure enim anim. Proident sunt pariatur commodo nisi irure culpa exercitation qui. Voluptate non culpa anim quis tempor sunt aute id laboris exercitation sit eu Lorem.",
+    "type": "recidental"
+  },
+  {
+    "id": "5714accca0905bc111924717",
+    "name": "929 Williams Court",
+    "description": "Qui qui dolore ipsum aliqua et est quis cupidatat Lorem sint. Minim mollit non aliquip anim amet irure ex sunt. Sunt qui et excepteur in deserunt culpa nulla fugiat pariatur.",
+    "type": "commercial"
+  },
+  {
+    "id": "5714accc37952f459b868c43",
+    "name": "590 Bartlett Place",
+    "description": "Veniam ea pariatur eiusmod sunt ut qui sit pariatur laborum est eiusmod est. Exercitation ex labore dolore magna magna Lorem deserunt. Est irure aliquip exercitation ea reprehenderit esse officia aliqua tempor aliqua tempor consequat duis.",
+    "type": "recidental"
+  },
+  {
+    "id": "5714accc532e3b08e9b18e12",
+    "name": "557 Knapp Street",
+    "description": "Cillum quis pariatur veniam eiusmod nostrud voluptate. Labore et laborum excepteur laborum dolor laborum nostrud amet. Ullamco consectetur id proident elit irure labore id culpa culpa fugiat id. Deserunt deserunt reprehenderit ut consequat culpa irure. Occaecat elit occaecat consectetur nisi est pariatur. Aliquip esse labore consectetur occaecat laborum ea aute eiusmod veniam ut irure occaecat anim aute. In pariatur ea id elit quis Lorem excepteur.",
+    "type": "recidental"
+  },
+  {
+    "id": "5714accc20479390d37c471a",
+    "name": "576 Division Place",
+    "description": "Proident culpa ex magna quis eiusmod ut ex ut culpa fugiat quis. Dolor elit ex consectetur ut consectetur proident. Ex qui aliquip nisi sint incididunt commodo Lorem cupidatat enim aliqua ut adipisicing do minim. Cupidatat incididunt voluptate sunt consectetur duis irure Lorem ex id laboris.",
+    "type": "recidental"
+  },
+  {
+    "id": "5714accccb174660e1f588a1",
+    "name": "433 Court Street",
+    "description": "Nostrud amet Lorem voluptate nulla sit. Amet dolore incididunt esse ut fugiat sint anim amet enim Lorem. Consequat nulla ipsum Lorem eu nisi et. Nisi exercitation laborum velit elit. Duis sunt incididunt quis commodo commodo pariatur excepteur. Tempor enim laborum sit eu deserunt laborum voluptate sit commodo ipsum ex ea minim. Laboris quis ad qui mollit aliqua nulla deserunt nostrud est ipsum.",
+    "type": "recidental"
+  },
+  {
+    "id": "5714acccbf462db7d0f0a5ed",
+    "name": "108 Colonial Court",
+    "description": "Cupidatat nisi irure est ut officia voluptate duis irure laborum excepteur proident enim. In eiusmod veniam adipisicing cillum non nostrud deserunt quis veniam reprehenderit laboris adipisicing. Sit consectetur ad minim id consectetur non velit. Ipsum Lorem cillum fugiat cupidatat et nulla proident eiusmod nulla. Commodo aliqua labore deserunt adipisicing nostrud dolore tempor nisi occaecat. Elit dolore id id deserunt veniam nisi occaecat duis aliquip.",
+    "type": "commercial"
+  },
+  {
+    "id": "5714accc2b228e7ff1aef0f1",
+    "name": "579 Ridge Boulevard",
+    "description": "Sunt ad exercitation sunt incididunt magna dolore irure commodo Lorem proident aliqua consectetur minim esse. Culpa deserunt esse aute consectetur sit dolor proident ut proident in adipisicing esse fugiat laborum. Eiusmod labore est consequat pariatur. Quis sint consectetur irure minim exercitation ea Lorem pariatur consequat.",
+    "type": "commercial"
+  },
+  {
+    "id": "5714acccf5a648393aae73cb",
+    "name": "145 Lester Court",
+    "description": "Nulla dolore sit eu nisi occaecat minim laboris minim eu et tempor non amet consequat. Culpa magna excepteur elit elit adipisicing qui occaecat et. Anim Lorem incididunt magna Lorem mollit. Do proident veniam est incididunt irure. Ex incididunt ex tempor voluptate. Elit duis cillum magna aliqua dolor mollit tempor aliquip.",
+    "type": "recidental"
+  },
+  {
+    "id": "5714accce0732650508389d8",
+    "name": "657 Fleet Walk",
+    "description": "Aute eiusmod et labore excepteur quis minim aliquip officia in incididunt incididunt sit tempor irure. Consectetur deserunt aliquip nostrud consectetur officia duis do exercitation dolore elit irure ex. Deserunt amet anim ut exercitation consectetur ipsum excepteur sunt pariatur duis minim amet velit. Veniam laborum ut eiusmod do laboris excepteur deserunt aliquip ut esse consequat. Proident deserunt nostrud duis magna eiusmod et ea enim veniam. Tempor fugiat veniam excepteur commodo dolore pariatur non id do amet.",
+    "type": "industrial"
+  },
+  {
+    "id": "5714accce35e373abba6883e",
+    "name": "398 Mermaid Avenue",
+    "description": "Voluptate duis reprehenderit non fugiat magna eu culpa consectetur ullamco do adipisicing anim. Cupidatat aliquip consectetur duis nostrud ad nostrud do. Enim laborum voluptate fugiat exercitation commodo. Officia irure esse excepteur sit qui veniam ipsum minim. Sunt deserunt quis proident in id ad. Cillum ullamco culpa consectetur mollit.",
+    "type": "recidental"
+  },
+  {
+    "id": "5714accca09a4222d6d4c7bb",
+    "name": "336 McClancy Place",
+    "description": "Amet et magna veniam labore veniam proident tempor ipsum eiusmod ex ut consequat. Consequat excepteur do in labore ea elit. Esse laboris quis anim cillum labore cupidatat. Do esse consectetur irure laborum culpa voluptate nostrud nulla aute. Officia adipisicing adipisicing nostrud id ullamco qui cillum Lorem.",
+    "type": "industrial"
+  },
+  {
+    "id": "5714acccc490ae6c6baad74d",
+    "name": "942 Harwood Place",
+    "description": "Consequat incididunt dolore nisi est. Consectetur veniam irure ullamco quis aute cillum Lorem excepteur laboris. Qui minim laborum adipisicing commodo occaecat reprehenderit. Irure ullamco anim laborum duis consequat tempor et voluptate esse quis tempor labore elit.",
+    "type": "commercial"
+  },
+  {
+    "id": "5714accc7a9db0de0a8fcbfd",
+    "name": "973 Havens Place",
+    "description": "Duis Lorem commodo ullamco tempor. Minim exercitation enim mollit occaecat incididunt cupidatat. Ipsum eiusmod nulla laborum ad amet irure irure consequat Lorem ad reprehenderit enim minim. Aliqua exercitation nulla aute irure elit veniam culpa eiusmod aliquip incididunt elit sunt incididunt.",
+    "type": "recidental"
+  },
+  {
+    "id": "5714accc7175acec9916c1c2",
+    "name": "780 Stratford Road",
+    "description": "In aliquip fugiat laboris commodo Lorem aliqua consequat in incididunt. Consectetur fugiat ad irure cillum est anim quis fugiat officia id esse. Mollit ullamco ad ea nulla est laborum esse enim ea reprehenderit nostrud eiusmod ea duis. Consequat voluptate anim sit officia excepteur ad est consequat anim ea aliqua. Officia aute esse ullamco ea. Ut et irure sit quis occaecat do eu magna incididunt deserunt adipisicing. Cupidatat aute amet aliquip aliquip cillum in.",
+    "type": "commercial"
+  },
+  {
+    "id": "5714accc540cdcea028a7231",
+    "name": "983 Coleman Street",
+    "description": "Eu elit aliqua aliqua amet mollit dolor esse culpa ut ut officia anim. Anim exercitation culpa enim fugiat sit irure culpa nisi exercitation proident. Laborum eiusmod ea veniam occaecat id laboris nisi voluptate. Consequat officia ex mollit elit duis irure elit duis amet. Eiusmod irure tempor velit dolore non. Adipisicing proident qui ex amet ut magna sint do. Lorem commodo qui esse dolor pariatur laboris incididunt deserunt consequat anim qui voluptate.",
+    "type": "commercial"
+  },
+  {
+    "id": "5714accc3541d6ce16084d4e",
+    "name": "869 Mayfair Drive",
+    "description": "Consectetur elit velit minim occaecat sunt. Do ipsum anim nisi amet id culpa labore ex quis quis adipisicing amet qui velit. Cillum sit eiusmod commodo pariatur eiusmod occaecat excepteur magna minim nulla eiusmod occaecat est est. Eu esse excepteur laboris ex ipsum exercitation sint id quis.",
+    "type": "recidental"
+  },
+  {
+    "id": "5714acccfb5f843902f3511e",
+    "name": "354 Grove Street",
+    "description": "Incididunt commodo fugiat est consectetur et fugiat velit pariatur voluptate magna est ipsum anim officia. Deserunt nisi qui mollit minim. Ad non consequat sint laboris sit officia quis nisi. Ad esse deserunt cupidatat irure qui non consectetur. Minim aliquip sit cillum do ad fugiat nulla in.",
+    "type": "commercial"
+  },
+  {
+    "id": "5714acccb063c9e321347d0b",
+    "name": "877 Schenck Street",
+    "description": "Ea et occaecat id aliqua sit Lorem aute nisi deserunt sunt eiusmod cillum tempor. Nulla exercitation velit culpa culpa nisi exercitation exercitation elit nulla esse commodo commodo incididunt veniam. Esse sunt veniam proident sint mollit. Nulla cillum ut sunt sunt aliquip incididunt.",
+    "type": "recidental"
+  },
+  {
+    "id": "5714accc3f2d532a30e3e340",
+    "name": "184 Seba Avenue",
+    "description": "Do laboris ipsum pariatur pariatur cupidatat amet velit culpa velit anim in consectetur eiusmod incididunt. Duis magna laboris est qui est anim velit culpa proident amet. Aliqua fugiat commodo ea ea aute. In dolor est irure pariatur qui incididunt do commodo veniam duis anim fugiat. Est id sint occaecat in laborum ullamco ut occaecat. Culpa tempor qui sunt eiusmod non.",
+    "type": "commercial"
+  },
+  {
+    "id": "5714accc3f544a74d6e5cb80",
+    "name": "329 Nova Court",
+    "description": "Culpa eu laborum sunt excepteur excepteur ad cillum ea laboris reprehenderit qui. Voluptate dolor duis exercitation deserunt commodo proident. Non est ad proident occaecat eiusmod pariatur amet tempor magna eu non ut est consequat. Dolor dolor nisi Lorem esse elit deserunt aute elit reprehenderit exercitation nulla id duis. Consectetur deserunt sint mollit et voluptate nulla sunt non mollit dolor excepteur proident amet in. Proident consequat consequat qui nulla culpa aliquip Lorem.",
+    "type": "industrial"
+  },
+  {
+    "id": "5714accc1f333a4db207cd86",
+    "name": "800 Bushwick Place",
+    "description": "Commodo ad culpa sunt aliquip officia elit excepteur veniam incididunt ut do nisi exercitation. Et cupidatat incididunt quis pariatur laborum. Dolore ad in ad proident sunt non sunt aliqua eu nostrud eiusmod laborum nulla id. Sunt pariatur occaecat exercitation dolore officia nisi laboris incididunt nulla. Eu velit voluptate elit id aute ipsum elit et adipisicing magna.",
+    "type": "recidental"
+  },
+  {
+    "id": "5714accc0114ac2ae24feb32",
+    "name": "234 Woodside Avenue",
+    "description": "Ut in nulla ea commodo ipsum duis duis. Laboris nulla id duis eiusmod nostrud exercitation deserunt dolor exercitation et anim voluptate ullamco cillum. Est irure velit aute deserunt sunt ut commodo do ad nostrud ad do laboris irure.",
+    "type": "commercial"
+  },
+  {
+    "id": "5714accc536f81342a795069",
+    "name": "755 Varet Street",
+    "description": "Proident commodo magna Lorem sunt dolore excepteur officia pariatur cupidatat quis officia. Et culpa quis labore veniam commodo irure consectetur nulla aute Lorem voluptate pariatur adipisicing dolor. Lorem Lorem do deserunt culpa. Est quis id ullamco ex sint nostrud sunt proident.",
+    "type": "recidental"
+  },
+  {
+    "id": "5714accc04b1e41ededc074e",
+    "name": "654 Harman Street",
+    "description": "Voluptate dolor est anim cillum. Tempor ad irure excepteur et aute aliqua eu quis tempor est. Quis aute exercitation aliquip irure velit aliquip veniam. Elit consectetur veniam pariatur culpa. Sit incididunt adipisicing magna culpa culpa aute nisi aliqua et nostrud aute ullamco velit.",
+    "type": "recidental"
+  },
+  {
+    "id": "5714accc7a549d505588d699",
+    "name": "574 Kossuth Place",
+    "description": "Ad exercitation quis anim ipsum tempor reprehenderit. Culpa commodo irure enim dolore aliqua. Nulla sunt ad adipisicing ut eu. Incididunt est ex voluptate cillum anim deserunt incididunt id. Veniam laborum officia duis nostrud ipsum id ullamco nulla nostrud qui ut sunt. Cupidatat do nulla veniam nostrud amet incididunt amet adipisicing laboris pariatur ut irure.",
+    "type": "commercial"
+  },
+  {
+    "id": "5714accc12d6bbbf8e93fa43",
+    "name": "287 Opal Court",
+    "description": "Consectetur pariatur amet exercitation nulla ullamco velit. Sunt consectetur reprehenderit occaecat deserunt excepteur. Excepteur anim id consectetur elit sit non ad duis incididunt aliqua elit exercitation tempor ullamco. Magna Lorem esse labore proident dolore qui ad elit in do Lorem cupidatat. Veniam ut elit elit irure proident ut laboris occaecat non pariatur mollit consequat consequat est. Ad mollit ad pariatur ex veniam non proident ipsum dolor veniam excepteur. Qui fugiat consectetur cupidatat voluptate nisi enim cupidatat sit excepteur ut qui non.",
+    "type": "commercial"
+  },
+  {
+    "id": "5714accccec1a19fca95f5b0",
+    "name": "474 Dewey Place",
+    "description": "Ea Lorem culpa laboris labore reprehenderit mollit anim ullamco nulla elit. Mollit ad consectetur nulla enim magna anim laborum qui quis fugiat occaecat ad. Occaecat excepteur voluptate eiusmod eu in nulla Lorem aute consectetur eu culpa. Eu voluptate non aliquip commodo. Veniam commodo culpa eiusmod ea velit ipsum qui ea consectetur esse Lorem pariatur non consectetur.",
+    "type": "commercial"
+  },
+  {
+    "id": "5714accceae9c2e9974c823c",
+    "name": "368 Rugby Road",
+    "description": "Eiusmod sint incididunt sint Lorem laboris enim commodo aute dolore minim tempor ea voluptate. Nisi fugiat sit adipisicing proident. Anim velit ipsum aliquip officia ullamco nostrud excepteur in deserunt fugiat. Cillum laboris ad laborum ut sit. Velit voluptate eu non eu culpa dolor excepteur qui pariatur minim deserunt minim proident. Culpa ipsum ex velit non nostrud id excepteur culpa consequat commodo.",
+    "type": "industrial"
+  },
+  {
+    "id": "5714acccee9a826218f3f0a0",
+    "name": "835 Douglass Street",
+    "description": "Officia quis non eu cillum tempor. Exercitation aute et minim officia consectetur ullamco Lorem id labore et aute laborum ea tempor. Qui ipsum non deserunt quis sint nulla ipsum magna. Incididunt Lorem non excepteur laboris excepteur Lorem dolor est mollit esse aute minim id irure.",
+    "type": "commercial"
+  },
+  {
+    "id": "5714accc13e6c9d40bdcab89",
+    "name": "385 Grand Street",
+    "description": "Enim sit deserunt enim est deserunt dolore cupidatat excepteur voluptate. Officia est elit aliqua ad cillum non. Aute elit laboris magna laborum reprehenderit. Nisi adipisicing pariatur ea cillum reprehenderit laborum. Veniam esse do veniam nostrud deserunt cillum labore laborum minim nisi dolor occaecat consectetur. Culpa occaecat eiusmod adipisicing commodo qui voluptate id occaecat enim sit sit elit.",
+    "type": "commercial"
+  },
+  {
+    "id": "5714accc31a60b2e2e13195b",
+    "name": "876 Colin Place",
+    "description": "Fugiat ut enim consequat enim exercitation aliqua ullamco laboris et. Veniam proident velit consectetur nisi sunt. Cillum adipisicing est laboris nostrud reprehenderit nostrud laboris aliqua cupidatat eu elit duis incididunt nostrud. Voluptate qui esse dolor dolore sunt ullamco. Adipisicing ullamco deserunt sunt ad aute. Magna eu mollit eu aliqua adipisicing. Eu elit nulla est officia laboris exercitation.",
+    "type": "recidental"
+  },
+  {
+    "id": "5714accc84262aad1e236e64",
+    "name": "546 Remsen Avenue",
+    "description": "Fugiat esse officia ea duis dolor voluptate consequat. Eiusmod non deserunt pariatur nulla ex magna laboris nisi eiusmod occaecat est. Dolore excepteur aliquip aliquip qui ipsum nulla deserunt velit. Culpa minim amet nulla Lorem exercitation mollit qui duis fugiat dolor nulla esse. Exercitation exercitation voluptate occaecat elit ut pariatur magna proident adipisicing. Ullamco sint cupidatat excepteur velit do ex cillum incididunt cupidatat dolor occaecat enim.",
+    "type": "industrial"
+  },
+  {
+    "id": "5714accc3880997931d8b359",
+    "name": "486 Pineapple Street",
+    "description": "Nulla amet tempor consectetur ipsum ipsum proident cillum dolore ex cupidatat elit qui. Culpa ipsum dolor dolore esse magna esse sunt exercitation. Dolor laboris nostrud sit exercitation duis officia officia voluptate ut. Enim minim voluptate occaecat ullamco qui velit deserunt deserunt labore sit. Consequat occaecat deserunt pariatur voluptate non occaecat quis. Magna est mollit ad culpa consectetur amet sint. Ut irure enim consectetur in mollit aliquip cupidatat ullamco consequat qui.",
+    "type": "commercial"
+  },
+  {
+    "id": "5714accc8fe5bbaf7b5f3922",
+    "name": "479 Woodhull Street",
+    "description": "Ex incididunt quis nostrud laborum esse. Officia duis deserunt ut sit consequat officia sunt labore anim deserunt. Aliquip magna sit deserunt quis reprehenderit id et qui consectetur aliqua. Veniam nisi et laboris consequat irure nostrud tempor amet. Nisi duis cillum duis magna. Proident aliquip quis velit consequat consequat culpa aute exercitation aute consequat amet aliqua enim proident.",
+    "type": "recidental"
+  },
+  {
+    "id": "5714acccb8945b199b79a158",
+    "name": "666 Jackson Court",
+    "description": "Fugiat sint ea ad eu elit eu pariatur. Incididunt in laborum Lorem non ullamco labore do et ut dolore cillum. Proident quis do reprehenderit amet incididunt.",
+    "type": "recidental"
+  },
+  {
+    "id": "5714accc260c4541df4d2fb6",
+    "name": "294 Hopkins Street",
+    "description": "Fugiat minim do consectetur voluptate anim labore enim et aliqua non reprehenderit. Do cupidatat in reprehenderit magna elit sunt esse. Culpa laborum laborum cillum incididunt.",
+    "type": "industrial"
+  },
+  {
+    "id": "5714accc80c38f64216ccc80",
+    "name": "583 Aster Court",
+    "description": "Reprehenderit do sunt aute pariatur deserunt in anim. Proident aute amet deserunt sunt cupidatat nisi. Commodo irure sit do quis amet ut ea commodo laboris id laborum consequat.",
+    "type": "industrial"
+  },
+  {
+    "id": "5714acccc932e4070f05317f",
+    "name": "455 Monument Walk",
+    "description": "Enim consequat anim labore elit anim commodo ad sint laborum culpa eu. Non amet sint magna voluptate enim aliquip pariatur. Esse cupidatat anim culpa ipsum. Laboris quis aute exercitation in. Sunt cupidatat sint sit cupidatat Lorem velit exercitation exercitation excepteur cillum eu ea cillum cillum. Dolore adipisicing consequat in magna. Non est amet deserunt fugiat ipsum duis reprehenderit anim labore incididunt mollit duis qui.",
+    "type": "recidental"
+  },
+  {
+    "id": "5714accc0a5bc606954c3a5b",
+    "name": "836 Hendrickson Street",
+    "description": "Exercitation incididunt ea consequat do nisi nulla. Excepteur in esse labore sit Lorem culpa quis. Esse dolor dolor dolor nisi cillum eu Lorem ipsum ut non. Cillum magna excepteur tempor incididunt veniam ex fugiat veniam et minim nostrud est ullamco. Nulla sit id in nisi laborum.",
+    "type": "commercial"
+  },
+  {
+    "id": "5714acccb47e08d279d3d732",
+    "name": "352 Plymouth Street",
+    "description": "Nostrud dolor nulla laboris in exercitation laboris deserunt dolore nostrud. Sunt culpa deserunt ex et nulla Lorem in. Mollit tempor elit adipisicing minim. Ipsum est sint aliquip adipisicing excepteur cillum consequat ullamco labore. Ex aliqua Lorem sunt magna excepteur aute nostrud deserunt dolore.",
+    "type": "recidental"
+  },
+  {
+    "id": "5714acccd2f84d003556e2e7",
+    "name": "905 Harrison Avenue",
+    "description": "Irure pariatur laborum irure aliqua et. Tempor cillum mollit enim mollit amet ea deserunt eiusmod commodo consectetur. Qui sit dolor laborum est.",
+    "type": "industrial"
+  },
+  {
+    "id": "5714accca7fce925cace1a69",
+    "name": "809 Ebony Court",
+    "description": "Reprehenderit esse esse quis nostrud sint tempor enim laboris nulla reprehenderit nostrud. Exercitation officia aliqua do cillum exercitation adipisicing quis proident deserunt. Officia quis sint cillum proident ad. Eiusmod occaecat proident laborum fugiat esse mollit. Eu ex tempor proident occaecat id non aliqua quis. Duis et cupidatat Lorem est. Voluptate magna dolore elit nisi.",
+    "type": "industrial"
+  },
+  {
+    "id": "5714acccc129af99fecfebf8",
+    "name": "642 Croton Loop",
+    "description": "Fugiat sint irure labore deserunt reprehenderit dolore amet amet labore veniam ut. Aliquip velit veniam nulla eiusmod elit laborum ut qui consequat nulla aute magna quis quis. Veniam amet reprehenderit in nulla id officia. Consectetur non aliquip cupidatat Lorem laboris veniam irure minim dolore magna. Adipisicing occaecat Lorem mollit non culpa cupidatat excepteur excepteur aliquip cillum adipisicing sunt. Velit consectetur labore consequat nisi. Non voluptate mollit consequat elit sit.",
+    "type": "industrial"
+  },
+  {
+    "id": "5714acccb7fdd7921d608b0c",
+    "name": "435 Oxford Street",
+    "description": "Commodo eiusmod enim magna quis irure aute nulla velit laboris duis nostrud dolor. Laborum anim incididunt nostrud incididunt magna proident dolore est et aliquip. Duis nisi enim sunt aliqua cillum ex reprehenderit voluptate nisi est consectetur ipsum.",
+    "type": "industrial"
+  },
+  {
+    "id": "5714accc04440a8417933436",
+    "name": "746 School Lane",
+    "description": "Non labore quis deserunt nisi sint consectetur nostrud velit esse ut velit. Id est aliquip laborum in aliquip quis tempor. Lorem non eu est nostrud consequat qui deserunt. Ullamco enim in sit irure aute laborum veniam laboris.",
+    "type": "recidental"
+  },
+  {
+    "id": "5714accc2dc88f144eb7597e",
+    "name": "941 Kent Street",
+    "description": "Deserunt eiusmod nulla proident sunt ipsum velit culpa deserunt ipsum sit consectetur consequat voluptate commodo. Id dolor mollit ea ad adipisicing laborum amet cupidatat in. Magna aliqua magna adipisicing minim eiusmod nulla ut veniam. Irure officia commodo id id ut nisi eiusmod cupidatat sit aliqua eu esse nostrud.",
+    "type": "recidental"
+  },
+  {
+    "id": "5714accccdb1b70c323adec8",
+    "name": "824 Madeline Court",
+    "description": "Reprehenderit ullamco dolor proident eu esse velit id dolor excepteur ex irure. Ea anim labore incididunt ad quis et Lorem ex eu velit ex duis eiusmod. Nostrud ex do enim do nulla id excepteur. Voluptate in excepteur quis cillum sit dolor occaecat aute minim consequat anim ex. Commodo qui eu ut dolore ut irure deserunt nostrud mollit velit officia nulla excepteur laborum.",
+    "type": "recidental"
+  },
+  {
+    "id": "5714accc5912a4d2a38f1fd1",
+    "name": "449 Kane Place",
+    "description": "Voluptate consequat officia amet magna. Tempor nisi id ut ipsum elit eiusmod consectetur culpa duis. Nulla mollit deserunt dolore ad consequat fugiat tempor. Voluptate aliqua consequat officia nisi ullamco duis qui. Qui do et cillum id laborum sint labore irure Lorem qui. Proident mollit et ea est consectetur quis ex laboris id commodo consequat laboris elit.",
+    "type": "industrial"
+  },
+  {
+    "id": "5714accc96ec4500c4188630",
+    "name": "803 Seigel Street",
+    "description": "Laborum ad quis ut ut quis amet elit. Dolore exercitation excepteur duis velit cupidatat reprehenderit est laborum. Et ex exercitation dolore eu fugiat aliqua minim enim officia sunt esse. Ut id mollit ad ut mollit sunt culpa reprehenderit occaecat. Commodo ut ad velit duis sint pariatur adipisicing.",
+    "type": "recidental"
+  },
+  {
+    "id": "5714acccb6672e19ca8c9143",
+    "name": "389 Lefferts Avenue",
+    "description": "Laborum cillum esse labore pariatur consequat. Incididunt nostrud consectetur nostrud duis voluptate consequat elit eiusmod veniam est aliquip consectetur magna occaecat. Quis amet nulla aliqua dolore aliquip id nostrud tempor ut eu officia.",
+    "type": "industrial"
+  },
+  {
+    "id": "5714accc3458a9d066983dd5",
+    "name": "631 Seabring Street",
+    "description": "Elit elit ad occaecat Lorem minim ipsum. Qui mollit consequat amet pariatur enim. Aliquip ex Lorem irure aliqua quis aliqua consequat. Proident excepteur adipisicing fugiat exercitation eu elit laboris velit. Dolor id non pariatur incididunt tempor nisi Lorem nisi in consectetur. Consequat enim magna voluptate commodo reprehenderit laboris et ipsum nostrud consectetur est cillum incididunt.",
+    "type": "recidental"
+  },
+  {
+    "id": "5714acccfab9bff2fb4beeeb",
+    "name": "917 McKibben Street",
+    "description": "Proident sunt aliquip qui ad commodo enim irure sint. Cupidatat et nulla veniam duis non non voluptate cupidatat tempor commodo. Quis quis nulla tempor pariatur laborum est ex consectetur cillum exercitation deserunt non eu est.",
+    "type": "industrial"
+  },
+  {
+    "id": "5714accc1b154c2e3d752d0b",
+    "name": "725 Throop Avenue",
+    "description": "Qui id dolor laborum et. Nulla velit occaecat reprehenderit deserunt fugiat proident incididunt ipsum nulla. Pariatur excepteur cupidatat veniam laborum reprehenderit nulla est est esse elit tempor aute.",
+    "type": "recidental"
+  },
+  {
+    "id": "5714acccca8242d883d473f0",
+    "name": "231 Crystal Street",
+    "description": "Incididunt laboris minim sit non tempor culpa quis ut nostrud dolore tempor cillum. Officia sint ex ea dolore et ex eu ex ea deserunt. Deserunt eu eiusmod est non proident irure labore occaecat aliquip nisi in proident. Irure culpa culpa fugiat minim pariatur ex esse eiusmod reprehenderit ullamco. Fugiat nisi sunt exercitation laboris.",
+    "type": "industrial"
+  },
+  {
+    "id": "5714accc4c155e178ff08b6b",
+    "name": "483 Berriman Street",
+    "description": "Commodo in elit fugiat labore enim et exercitation laborum anim do. Tempor nostrud minim veniam labore nostrud ipsum magna cillum nisi cupidatat laboris reprehenderit ullamco. Est nisi voluptate sint non quis id occaecat aute. In commodo consectetur laboris amet ut quis dolor esse aliqua dolore cillum. Exercitation deserunt mollit ut nisi elit cillum enim sint id occaecat consequat. Adipisicing laboris nisi nostrud culpa qui do esse mollit reprehenderit Lorem sunt magna. Cillum dolor qui ullamco sint ea ex cillum magna tempor sunt excepteur anim exercitation qui.",
+    "type": "commercial"
+  },
+  {
+    "id": "5714accceac026c6840dd587",
+    "name": "754 Clinton Street",
+    "description": "Excepteur do excepteur minim laborum occaecat nulla. Ut esse culpa non quis proident officia laborum. Fugiat ea voluptate aute do. Minim nisi pariatur tempor excepteur aliquip veniam irure pariatur voluptate elit reprehenderit cupidatat laboris deserunt. Proident dolor in incididunt eiusmod.",
+    "type": "recidental"
+  },
+  {
+    "id": "5714acccdcf1e54212b0d17e",
+    "name": "497 Loring Avenue",
+    "description": "Mollit in pariatur irure enim Lorem reprehenderit anim adipisicing. Velit amet eu Lorem ullamco ullamco est culpa commodo ad tempor ut. Excepteur est aliqua sit non tempor est dolor in culpa ea eiusmod sit. Irure ad in officia commodo nisi esse irure fugiat officia dolor incididunt. Et aliquip excepteur et veniam. Minim ut id ea Lorem elit dolor officia sint voluptate proident pariatur esse.",
+    "type": "recidental"
+  },
+  {
+    "id": "5714accccd36c74e9b298f42",
+    "name": "525 Ralph Avenue",
+    "description": "Adipisicing consectetur proident aliquip consequat proident. Adipisicing ex nulla commodo ullamco ipsum officia elit laboris labore esse sint. Sunt minim sint in aliqua et non et sit Lorem nulla fugiat amet. Quis laborum quis dolor magna. Quis ullamco quis veniam enim esse incididunt sunt adipisicing laboris deserunt Lorem labore.",
+    "type": "recidental"
+  },
+  {
+    "id": "5714accc655f16c9f9c46cfb",
+    "name": "397 Jardine Place",
+    "description": "Dolore aute voluptate quis est magna eiusmod id occaecat duis ut sit ex. Velit qui ullamco aute dolore Lorem laboris Lorem eu exercitation duis voluptate proident labore. Proident qui consectetur non dolor anim Lorem consectetur. Minim ad amet ipsum quis fugiat veniam in sunt. Minim deserunt deserunt ex id.",
+    "type": "industrial"
+  },
+  {
+    "id": "5714acccfe77e3504ce7fb1a",
+    "name": "456 Visitation Place",
+    "description": "Anim est ad incididunt laborum qui duis. Elit ad deserunt reprehenderit proident commodo. Mollit consequat culpa officia ea reprehenderit laboris enim magna pariatur Lorem sit sit laboris ut. Dolor adipisicing officia quis ex amet et pariatur ex in do. Ex fugiat reprehenderit minim proident. Aute laborum culpa nisi mollit dolor duis.",
+    "type": "recidental"
+  },
+  {
+    "id": "5714accc7316317a05d96e17",
+    "name": "630 Anthony Street",
+    "description": "Sint quis ad laborum do deserunt deserunt et consectetur commodo ea qui magna esse. Culpa ea excepteur dolore ipsum in anim eu fugiat Lorem laborum id eu. Amet cupidatat incididunt consequat ea fugiat mollit reprehenderit eiusmod Lorem enim dolor culpa amet.",
+    "type": "recidental"
+  },
+  {
+    "id": "5714accdc35e18121a154d7c",
+    "name": "962 Ridge Court",
+    "description": "Consectetur esse do nostrud reprehenderit aliqua exercitation excepteur consequat ipsum exercitation consequat velit cupidatat nisi. Fugiat deserunt dolor commodo velit mollit fugiat aliqua consectetur est velit in cupidatat consequat tempor. Consectetur enim adipisicing ea voluptate commodo. Adipisicing esse dolore laboris pariatur incididunt est ullamco irure. Reprehenderit sit laboris excepteur duis commodo id ea occaecat. Commodo proident cupidatat magna reprehenderit consequat aliquip dolor velit nostrud.",
+    "type": "recidental"
+  },
+  {
+    "id": "5714accd49e15fbb97b2d4ef",
+    "name": "496 Oceanic Avenue",
+    "description": "Ea qui ipsum labore excepteur incididunt ipsum irure aute minim est. Tempor nostrud qui amet ut duis. Ut esse duis culpa magna dolore et in quis dolore. Eu nisi eiusmod sunt sunt. In aliquip tempor ex nostrud qui eu. Laboris enim enim elit incididunt sint incididunt occaecat laboris commodo ea do et adipisicing nulla. Sunt mollit mollit excepteur reprehenderit elit qui est et commodo dolor.",
+    "type": "commercial"
+  },
+  {
+    "id": "5714accdc2a88bff1d6f1723",
+    "name": "979 Columbia Street",
+    "description": "Id fugiat ullamco anim Lorem ut nostrud aute dolore nostrud esse Lorem. Mollit do in do officia non consectetur velit. Sit commodo occaecat adipisicing amet ut non id do. Sunt velit elit velit duis sint duis. Eu exercitation occaecat in exercitation magna eiusmod reprehenderit Lorem enim fugiat.",
+    "type": "recidental"
+  },
+  {
+    "id": "5714accd94f489d4e5d7f949",
+    "name": "254 Hooper Street",
+    "description": "Qui sint nostrud culpa cillum. Id voluptate irure eiusmod consequat sit ea. Minim officia velit mollit ut ullamco consectetur tempor ullamco. Et aliqua ipsum officia laboris nulla do est laboris sit. Cillum tempor sint est laborum velit nostrud in minim laborum duis consequat. Commodo amet occaecat irure laborum commodo sint consequat deserunt Lorem nulla veniam deserunt amet Lorem.",
+    "type": "recidental"
+  },
+  {
+    "id": "5714accd287c48d561aee96d",
+    "name": "975 Benson Avenue",
+    "description": "Reprehenderit ut sit adipisicing tempor commodo excepteur consequat aliqua excepteur mollit laboris aliqua non. Aliqua commodo labore enim aliqua labore sunt qui tempor cillum consequat labore laborum aliqua elit. Excepteur nulla velit elit est reprehenderit anim incididunt laboris aliqua reprehenderit anim sint excepteur minim.",
+    "type": "industrial"
+  },
+  {
+    "id": "5714accd507d1b725884aaf9",
+    "name": "493 Campus Road",
+    "description": "Nisi qui velit commodo culpa aliqua irure in velit non minim eiusmod. Mollit sint aliquip sunt officia fugiat proident non nulla nisi nisi reprehenderit consequat dolor. Voluptate sunt occaecat ad non officia dolor esse mollit dolore veniam eu et. Ut anim sit ullamco ex esse et ipsum occaecat dolore consequat Lorem ut.",
+    "type": "recidental"
+  },
+  {
+    "id": "5714accd3dfede8d330a12c5",
+    "name": "876 Hinckley Place",
+    "description": "Cillum sit cillum consequat mollit nisi excepteur mollit sint fugiat tempor sit culpa dolore eiusmod. Aute consectetur aliqua duis id velit esse cillum. Et cupidatat veniam do laboris ipsum. Duis commodo dolore elit nostrud velit pariatur enim ad do velit. Ad eu magna non qui elit veniam.",
+    "type": "recidental"
+  },
+  {
+    "id": "5714accde68239bf59a0cf3e",
+    "name": "831 Hubbard Place",
+    "description": "Labore voluptate ex irure occaecat duis dolor. Commodo aliquip cillum proident exercitation magna ullamco. Exercitation aute proident elit sint dolore eu proident qui nostrud fugiat. Ad commodo cillum Lorem fugiat nulla nisi veniam ut amet tempor elit enim laboris.",
+    "type": "commercial"
+  },
+  {
+    "id": "5714accd727907c3ef8eeb2e",
+    "name": "642 Chester Avenue",
+    "description": "Lorem reprehenderit id aliquip eiusmod pariatur esse laboris qui quis cupidatat laboris amet fugiat. Id anim tempor eu est culpa enim qui excepteur. Non ea nisi aliquip aliquip. Commodo incididunt excepteur deserunt nisi voluptate mollit ex eu reprehenderit. Ut commodo eiusmod anim officia eiusmod culpa sunt mollit excepteur nulla. Mollit deserunt deserunt laboris ullamco eiusmod id consectetur dolor. Et sunt amet esse cupidatat dolore in amet fugiat consequat.",
+    "type": "industrial"
+  },
+  {
+    "id": "5714accd8ba4e854df5983c1",
+    "name": "569 Hanson Place",
+    "description": "Ex deserunt laboris id ipsum. Cupidatat fugiat amet minim anim et sunt non culpa proident ad aliqua enim cillum in. Nisi quis veniam voluptate minim quis ullamco pariatur eu reprehenderit ut aute magna laboris fugiat. Velit occaecat minim ullamco sunt minim id dolor incididunt aliquip elit qui quis nisi.",
+    "type": "commercial"
+  },
+  {
+    "id": "5714accd8e175a58103793d7",
+    "name": "680 Halleck Street",
+    "description": "Laborum officia mollit nisi duis cillum non proident exercitation. Laborum sint quis sit et voluptate eu ipsum velit eu voluptate. Qui aliquip id enim magna non voluptate velit esse reprehenderit eu non anim. Dolor cillum veniam veniam elit aliquip incididunt ut est occaecat ex veniam laboris sint.",
+    "type": "recidental"
+  },
+  {
+    "id": "5714accdcfd1475646f1a06b",
+    "name": "563 Bennet Court",
+    "description": "Sint eu ullamco elit minim magna nisi cillum commodo dolore qui. In sint consectetur consectetur eu. Ex tempor enim voluptate incididunt mollit proident Lorem anim irure nisi laboris labore reprehenderit do. Culpa voluptate nostrud cillum veniam ipsum cupidatat Lorem labore culpa ad officia.",
+    "type": "commercial"
+  },
+  {
+    "id": "5714accdc583836b9626fc65",
+    "name": "279 Elm Avenue",
+    "description": "Nulla duis sit Lorem id ad laborum dolore ullamco est voluptate adipisicing. Ex exercitation laboris tempor esse laborum elit. Et reprehenderit laboris sint ea enim voluptate deserunt. Dolor proident do elit excepteur mollit voluptate. Officia nulla tempor consectetur esse sit velit amet. Nulla exercitation amet et in non velit ad. Qui excepteur consectetur ex enim adipisicing ad laboris.",
+    "type": "industrial"
+  },
+  {
+    "id": "5714accd27a74fca023b5f44",
+    "name": "647 Poly Place",
+    "description": "Eiusmod amet ex minim reprehenderit id commodo pariatur qui. Velit qui consequat fugiat amet sint nulla pariatur sunt dolor ea magna elit. Qui adipisicing esse irure dolor id aute sit proident irure non velit eiusmod. Id eiusmod anim excepteur non commodo occaecat est. Laborum reprehenderit aliqua non exercitation eiusmod ex.",
+    "type": "recidental"
+  },
+  {
+    "id": "5714accd464ef1e1cc5c23dd",
+    "name": "290 Oxford Walk",
+    "description": "Est deserunt adipisicing anim irure. Anim excepteur in nisi magna ullamco magna Lorem Lorem fugiat adipisicing amet fugiat ex. Aliqua sit sint enim deserunt proident dolore dolore id aliqua laborum adipisicing. Nulla Lorem sit pariatur cillum nulla ex occaecat irure occaecat elit duis. Nostrud exercitation quis mollit consectetur culpa aliquip nulla commodo commodo fugiat.",
+    "type": "industrial"
+  },
+  {
+    "id": "5714accdfc252b0822c3dbe3",
+    "name": "450 Leonard Street",
+    "description": "Sit et aliqua duis incididunt adipisicing amet ut veniam duis. Lorem laborum ad exercitation sint aute ex nisi nisi incididunt amet ex. Deserunt ipsum aliquip commodo aute esse ex anim dolor consequat fugiat officia adipisicing dolore. Esse exercitation do qui dolore quis.",
+    "type": "recidental"
+  },
+  {
+    "id": "5714accdc64740760e1f9e6c",
+    "name": "593 Schaefer Street",
+    "description": "Magna deserunt reprehenderit culpa consectetur pariatur fugiat fugiat esse eiusmod. Occaecat amet in eu exercitation sint reprehenderit quis pariatur enim officia. Incididunt amet deserunt id amet est magna reprehenderit laboris nisi laboris ipsum cupidatat. Exercitation duis excepteur sint officia ut.",
+    "type": "industrial"
+  },
+  {
+    "id": "5714accdb85e48b83993cd08",
+    "name": "613 Sullivan Street",
+    "description": "Nisi commodo laborum consequat duis. Ut nostrud exercitation labore tempor in laboris eiusmod et Lorem veniam veniam sit Lorem velit. Esse magna qui labore ex eu laborum consequat ullamco cillum amet. Ipsum culpa sint dolore dolor eiusmod dolor fugiat.",
+    "type": "recidental"
+  },
+  {
+    "id": "5714accd266e0f567e2f65c2",
+    "name": "288 Bushwick Court",
+    "description": "Quis do tempor nulla voluptate minim minim laboris ullamco. Consectetur voluptate magna voluptate occaecat sint nulla et exercitation laboris nulla nisi sint. Laborum qui enim ut cillum Lorem.",
+    "type": "recidental"
+  },
+  {
+    "id": "5714accd676f922f560fbdb8",
+    "name": "586 Dank Court",
+    "description": "Consectetur et nisi et quis in laborum veniam. Incididunt nulla dolor ex officia officia excepteur ex excepteur laboris voluptate ullamco. Quis Lorem deserunt deserunt sit nostrud. Occaecat magna officia esse ipsum est nisi sunt eiusmod eu deserunt duis non.",
+    "type": "recidental"
+  },
+  {
+    "id": "5714accd2fcabe514620f1ad",
+    "name": "405 Williams Place",
+    "description": "Occaecat ea consectetur culpa excepteur esse consequat est culpa aliquip labore eiusmod duis. Ex sit eiusmod fugiat cillum excepteur ipsum minim eiusmod officia. Sunt ex tempor sit culpa cillum sit magna est irure. Amet sunt amet enim nostrud esse veniam anim proident. Aliqua sit duis in duis aute enim Lorem laborum aliquip.",
+    "type": "industrial"
+  }
+]
